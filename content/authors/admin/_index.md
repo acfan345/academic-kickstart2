@@ -17,13 +17,13 @@ organizations:
   - name: Case Western Reserve University
 education:
   courses:
-    - course: Doctor of Medicine (2020 - present)
+    - course: "Doctor of Medicine "
       institution: Cleveland Clinic Lerner College of Medicine
       year: ""
-    - course: Masters in Public Health (2020 - present)
+    - course: "Masters in Public Health "
       institution: Case Western Reserve University
       year: ""
-    - course: BA in Biological Sciences and Anthropology (2012-2016)
+    - course: BA in Biological Sciences and Anthropology
       institution: Cornell University
       year: ""
 email: ""
