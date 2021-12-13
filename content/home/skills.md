@@ -3,7 +3,7 @@ widget: skills
 widget_id: skills
 headless: true
 weight: 10
-title: "Skills: skills"
+title: Skills
 active: true
 design:
   columns: "2"
