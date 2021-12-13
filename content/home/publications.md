@@ -1,42 +1,25 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-
-# This file represents a page section.
+widget_id: publications
 headless: true
-
-# Order that this section appears on the page.
 weight: 90
-
 title: Recent Publications
-subtitle: ''
-
+subtitle: ""
 content:
-  # Page type to display. E.g. post, talk, publication...
   page_type: publication
-  # Choose how much pages you would like to display (0 = all pages)
   count: 5
-  # Choose how many pages you would like to offset by
   offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
   order: desc
-  # Filter on criteria
   filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
+    tag: ""
+    category: ""
+    publication_type: ""
+    author: ""
     exclude_featured: true
 design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
   view: 4
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+* Markwei MT, Babatunde I, Rathi N, **Fan C**, et al. Preincision adjunctive prophylaxis for cesarean deliveries a systematic review and meta-analysis. Am J Obstet Gynecol 2021;225(4):382.e1-382.e13.
+* **Fan C**. “Exercise for preventing falls in older people living in the community: Summary of a cochrane review.” Explore (NY). 2020;16(4):274. doi:10.1016/j.explore.2020.05.005
+* Wu JJ, Cai A, Greenslade JE, Higgins NR, **Fan C**, et al. “ALS/FTD mutations in UBQLN2 impede autophagy by reducing autophagosome acidification through loss of function.” Proc Natl Acad Sci U S A. 2020;201917371. doi:10.1073/pnas.1917371117
+* **Fan CA**, Reader J, Roque DM. “Review of Immune Therapies Targeting Ovarian Cancer.” Curr Treat Options Oncol. 2018;19(12):74. Published 2018 Nov 14. doi:10.1007/s11864-018-0584-3
