@@ -1,5 +1,5 @@
 ---
-widget: "Skills: skills"
+widget: skills
 widget_id: skills
 headless: true
 weight: 10
