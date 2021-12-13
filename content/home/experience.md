@@ -22,29 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: MD/MPH Student
+    company: Cleveland Clinic Lerner College of Medicine
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: ''
+    location: Cleveland, OH
+    date_start: '2020'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+    description: 
+    
+  - title: Research Technician
+    company: Monteiro Lab, University of Maryland, Baltimore
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ''
+    location: Baltimore, MD
+    date_start: '2019'
+    date_end: '2020'
+    description: 
+        
+  - title: Research Technician
+    company: Division of Gynecologic Oncology, University of Maryland, Baltimore
+    company_url: ''
+    company_logo: ''
+    location: Baltimore, MD
+    date_start: '2017'
+    date_end: '2019'
+    description: 
 
 design:
-  columns: '2'
+  columns: '3'
 ---
