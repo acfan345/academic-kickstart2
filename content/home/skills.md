@@ -1,8 +1,8 @@
 ---
-widget: skills
+widget: featurette
 widget_id: skills
 headless: true
-weight: 10
+weight: 30
 title: Skills
 active: true
 design:
