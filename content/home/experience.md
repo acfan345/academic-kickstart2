@@ -24,8 +24,6 @@ date_format: Jan 2006
 experience:
   - title: MD/MPH Student
     company: Cleveland Clinic Lerner College of Medicine
-    company_url: ''
-    company_logo: ''
     location: Cleveland, OH
     date_start: '2020'
     date_end: ''
@@ -33,8 +31,6 @@ experience:
     
   - title: Research Technician
     company: Monteiro Lab, University of Maryland, Baltimore
-    company_url: ''
-    company_logo: ''
     location: Baltimore, MD
     date_start: '2019'
     date_end: '2020'
@@ -42,13 +38,11 @@ experience:
         
   - title: Research Technician
     company: Division of Gynecologic Oncology, University of Maryland, Baltimore
-    company_url: ''
-    company_logo: ''
     location: Baltimore, MD
     date_start: '2017'
     date_end: '2019'
     description: 
 
 design:
-  columns: '3'
+  columns: '2'
 ---
